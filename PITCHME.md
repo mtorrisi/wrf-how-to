@@ -42,7 +42,7 @@ WRF for WIMEA-ICT
 
 # Demo
 
-![Video](https://drive.google.com/open?id=0B4k_nrxGc6iJTXNUYWNWem5jLTQ)
+![Cartoon](https://drive.google.com/open?id=0B4k_nrxGc6iJTXNUYWNWem5jLTQ)
 
 ---
 
