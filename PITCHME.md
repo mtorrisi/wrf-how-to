@@ -1,13 +1,10 @@
-WRF portlet for WIMEA-ICT
+WRF for WIMEA-ICT
 ===
-
-![](images/wrf-logo.png)
 
 ### How to use it
 
-###### Developed by:
-####### **Damas Makweba**, DIT - Dar Es Salam Institute of Technologies - ( [@dmakweba](https://github.com/dmakweba) )
-####### **Mario Torrisi**, DFA-UNICT - Physics and Astronomy Department, University of Catania - ( [@mtorrisi](https://github.com/mtorrisi) )
+###### **Damas Makweba**, DIT - Dar Es Salam Institute of Technologies - ( [@dmakweba](https://github.com/dmakweba) )
+###### **Mario Torrisi**, DFA-UNICT - Physics and Astronomy Department, University of Catania - ( [@mtorrisi](https://github.com/mtorrisi) )
 
 ---
 
