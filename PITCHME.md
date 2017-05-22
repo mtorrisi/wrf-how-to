@@ -1,23 +1,22 @@
 WRF portlet for WIMEA-ICT
 ===
 
-# ![](images/wrf-logo.png)
+![](images/wrf-logo.png)
 
-##### How to use it, powered by [Electron](http://electron.atom.io/)
+### How to use it
 
-###### Created by Yuki Hattori ( [@yhatt](https://github.com/yhatt) )
+###### Developed by:
+####### **Damas Makweba**, DIT - Dar Es Salam Institute of Technologies - ( [@dmakweba](https://github.com/dmakweba) )
+####### **Mario Torrisi**, DFA-UNICT - Physics and Astronomy Department, University of Catania - ( [@mtorrisi](https://github.com/mtorrisi) )
 
 ---
 
-# Features
-
-<!-- page_number: true -->
+# Slide 1
 
 - **Slides are written in Markdown.**
-- Cross-platform. Supports Windows, Mac, and Linux
-- Live Preview with 3 modes
-- Slide themes (`default`, `gaia`) and custom background images
-- Supports emoji :heart:
-- Render maths in your slides
-- Export your slides to PDF
 
++++
+
+# Slide 2
+
+- Test
