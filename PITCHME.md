@@ -1,6 +1,8 @@
 WRF for WIMEA-ICT
 ===
 
+![](assets/wrf-logo.png)
+
 ### How to use it
 
 ###### **Damas Makweba**, DIT - Dar Es Salam Institute of Technologies - ( [@dmakweba](https://github.com/dmakweba) )
