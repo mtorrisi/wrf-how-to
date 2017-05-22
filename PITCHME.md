@@ -10,12 +10,35 @@ WRF for WIMEA-ICT
 
 ---
 
-# Slide 1
+# Outline
 
-- **Slides are written in Markdown.**
+- Background
+- WRF portlet @ Africa Grid Science Gateway
+- How to use it
+- Conclusion
 
 +++
 
-# Slide 2
+# How to use it
+
+- Test
+
+---
+
+# Background
+
+---
+
+# WRF portlet @ Africa Grid Science Gateway
+
+---
+
+# How to use it
+
+- Test
+
+---
+
+# Conclusion
 
 - Test
